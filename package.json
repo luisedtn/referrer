@@ -1,0 +1,24 @@
+{
+  "name": "referrer",
+  "version": "1.0.0",
+  "description": "Obtener el parámetro referrer de la google store.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luisedtn/referrer.git"
+  },
+  "keywords": [
+    "referrer",
+    "google",
+    "play"
+  ],
+  "author": "luis torres",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/luisedtn/referrer/issues"
+  },
+  "homepage": "https://github.com/luisedtn/referrer#readme"
+}
