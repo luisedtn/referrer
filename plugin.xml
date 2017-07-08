@@ -13,7 +13,7 @@
     <keywords>referrer</keywords>
     
   <platform name="android">
-	  <source-file src="src\com\eightz\mobile\cordova\cordova\plugin\android\referrer\Receiver.java" target-dir="src\com\eightz\mobile\cordova\cordova\plugin\android\referrer\" />
+	  <source-file src="src\com\eightz\mobile\cordova\plugin\android\referrer\Receiver.java" target-dir="src\com\eightz\mobile\cordova\plugin\android\referrer\" />
 
 	  <config-file target="AndroidManifest.xml" parent="/manifest/application">
 		  <receiver android:exported="true" android:name="com.eightz.mobile.cordova.plugin.android.referrer.Receiver">
